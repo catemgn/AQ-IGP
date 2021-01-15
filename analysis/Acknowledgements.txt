@@ -1,0 +1,12 @@
+We acknowledge the use of the following softwares and packages for the creation of the analaysis scripts contained in this folder:
+
+-ArcGIS 10.7
+-Python 3.6;
+-numPy (https://numpy.org)
+-Pandas (https://pandas.pydata.org)
+-Plotly (https://plotly.com)
+-xarray (https://doi.org/10.5281/zenodo.3724893); 
+-cartopy (https://doi.org/10.5281/zenodo.3783894); 
+-matplotlib (https://doi.org/10.5281/zenodo.1482098); 
+-salem (https://doi.org/10.5281/zenodo.1295582). 
+-Administrative areas used in the code were taken from GADM (https://gadm.org).

@@ -9,7 +9,7 @@ The repository includes:
     - ###### model setup: WRF-Chem namelist.wps and namelist.input
     
 #### analysis
-    - ######clean_observations : scripts for processing of raw ground-based observations data to be compared with model outputs.
+    - *clean_observations* : scripts for processing of raw ground-based observations data to be compared with model outputs.
     - emissions: scripts for emissions analysis and emissions perturbation over the IGP.
     - meteo: scripts for analysisng modeled meteorological varaibles over the IGP.
     - model_evaluation: scripts for comapring model outputs with ground based obsevations, literature data and AOD.

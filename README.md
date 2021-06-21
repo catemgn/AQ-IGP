@@ -19,5 +19,6 @@ The repository includes:
 
 
 
-### Zenodo repository
+### License
+This code is licensed under the GPLv3.0 License.
 [![DOI](https://zenodo.org/badge/327905636.svg)](https://zenodo.org/badge/latestdoi/327905636)

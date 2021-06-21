@@ -18,4 +18,4 @@ The repository includes:
   
  
 ## How to cite
-https://zenodo.org/badge/327905636.svg
+[![DOI](https://zenodo.org/badge/{github_id}.svg)](https://zenodo.org/badge/latestdoi/{github_id})

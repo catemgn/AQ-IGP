@@ -1,19 +1,19 @@
 &share
  wrf_core = 'ARW',
  max_dom = 2,
- start_date = '2017-04-18_00:00:00','2017-04-18_00:00:00',
- end_date   = '2017-04-25_00:00:00','2017-04-25_00:00:00',
+ start_date = '2017-04-18_00:00:00',
+ end_date   = '2017-04-25_00:00:00',
  interval_seconds = 21600,
  io_form_geogrid = 2,
 /
 
 &geogrid
- parent_id         =   1,   1,
- parent_grid_ratio =   1,   5,
- i_parent_start    =   1,  50,
- j_parent_start    =   1,  44, 
- e_we              =  160,136, 
- e_sn              =  120,136,
+ parent_id         =   1,   
+ parent_grid_ratio =   1,   
+ i_parent_start    =   1,  
+ j_parent_start    =   1,  
+ e_we              =  160,
+ e_sn              =  120,
  
  !!!!!!!!!!!!!!!!!!!!!!!!!!!! IMPORTANT NOTE !!!!!!!!!!!!!!!!!!!!!!!!!!!!
  ! The default datasets used to produce the MAXSNOALB and ALBEDO12M

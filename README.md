@@ -17,6 +17,5 @@ The repository includes:
 
   
  
-## Zenodo Repository
-
-10.5281/zenodo.5006025
+## How to cite
+https://zenodo.org/badge/327905636.svg

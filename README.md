@@ -16,5 +16,8 @@ The repository includes:
  - **PM25_OA**: scripts for analysis of modeled PM2.5 and OA seasonal distribution, composition and sensitivity to emissions.
 
 
-### How to cite
+
+
+
+### Zenodo repository
 [![DOI](https://zenodo.org/badge/327905636.svg)](https://zenodo.org/badge/latestdoi/327905636)

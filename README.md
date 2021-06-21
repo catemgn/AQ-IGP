@@ -15,7 +15,6 @@ The repository includes:
  - **model_evaluation**: scripts for comapring model outputs with ground based obsevations, literature data and AOD.
  - **PM25_OA**: scripts for analysis of modeled PM2.5 and OA seasonal distribution, composition and sensitivity to emissions.
 
-  
- 
-## How to cite
-[![DOI](https://zenodo.org/badge/{github_id}.svg)](https://zenodo.org/badge/latestdoi/{github_id})
+
+### How to cite
+[![DOI](![image](https://user-images.githubusercontent.com/37865673/122767849-f872c600-d29a-11eb-82f1-6461b20e4852.png))](https://zenodo.org/badge/latestdoi/{github_id})

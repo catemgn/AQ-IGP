@@ -1,5 +1,5 @@
 # AQ-IGP
-WRF-Chem model setup & code for analysis for research paper:
+WRF-Chem model setup & code for analysis of research paper:
 
  *Mogno, Caterina, et al. "Seasonal distribution and drivers of surface fine particulate matterand organic aerosol over the Indo-Gangetic Plain (IGP)." Atmospheric Chemistry and Physics Discussions (2021): 1-39.*
 

@@ -17,4 +17,4 @@ The repository includes:
 
 
 ### How to cite
-[![DOI](![image](https://user-images.githubusercontent.com/37865673/122767849-f872c600-d29a-11eb-82f1-6461b20e4852.png))](https://zenodo.org/badge/latestdoi/{github_id})
+[![DOI](https://zenodo.org/badge/327905636.svg)](https://zenodo.org/badge/latestdoi/327905636)

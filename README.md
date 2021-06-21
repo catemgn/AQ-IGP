@@ -5,10 +5,10 @@ WRF-Chem model setup & code for analysis for research paper:
 
 The repository includes:
     
-## wrfchem_setup
+### wrfchem_setup
     - model setup: WRF-Chem namelist.wps and namelist.input
     
-## analysis
+### analysis
     - clean_observation: scripts for processing of raw ground-based observations data to be compared with model outputs.
     - emissions: scripts for emissions analysis and emissions perturbation over the IGP.
     - meteo: scripts for analysisng modeled meteorological varaibles over the IGP.

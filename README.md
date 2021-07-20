@@ -1,7 +1,7 @@
 # AQ-IGP
 WRF-Chem model setup & code for analysis of research paper:
 
- *Mogno, Caterina, et al. "Seasonal distribution and drivers of surface fine particulate matterand organic aerosol over the Indo-Gangetic Plain (IGP)." Atmospheric Chemistry and Physics Discussions (2021): 1-39.*
+ *Mogno, C., Palmer, P. I., Knote, C., Yao, F., and Wallington, T. J.: Seasonal distribution and drivers of surface fine particulate matter and organic aerosol over the Indo-Gangetic Plain, Atmos. Chem. Phys., 21, 10881–10909, https://doi.org/10.5194/acp-21-10881-2021, 2021.*
 
 The repository includes:
     

@@ -6,7 +6,8 @@ WRF-Chem model setup & code for analysis of research paper:
 The repository includes:
     
 #### wrfchem_setup
- - model setup: WRF-Chem namelist.wps and namelist.input, and instructions for code changes (perturbation of bio emissions).
+ - model setup: WRF-Chem namelist.wps and namelist.input.
+ - instructions for code changes (perturbation of bio emissions).
     
 #### analysis
  - **clean_observations** : scripts for processing of raw ground-based observations data to be compared with model outputs.

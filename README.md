@@ -7,7 +7,7 @@ The repository includes:
     
 #### wrfchem_setup
  - model setup: WRF-Chem namelist.wps and namelist.input.
- - instructions for code changes (perturbation of bio emissions).
+ - instructions for code changes (perturbation of biogenic emissions).
     
 #### analysis
  - **clean_observations** : scripts for processing of raw ground-based observations data to be compared with model outputs.
